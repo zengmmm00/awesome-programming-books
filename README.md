@@ -125,6 +125,8 @@
 - [《编程珠玑（第2版）》](./algorithms/编程珠玑（第2版）.pdf)
 - [《编程之美：微软技术面试心得》](./algorithms/编程之美：微软技术面试心得.pdf)
 - [《剑指offer名企面试官精讲典型编程题》](./algorithms/剑指offer名企面试官精讲典型编程题.pdf)
+- [《大话数据结构》](./algorithms/大话数据结构.pdf)
+
 
 ## System
 
